@@ -5,4 +5,5 @@ Github: 'https://github.com/jayesh-shadi'
 Interests: ['Problem Solving', 'Playing Guitar', 'Development']
 ---
 
-##February 2022
+## February 2022
+-Got Selected for GSSOC(Participant and Project Admin)
